@@ -1,2 +1,2 @@
 # garepo
-Google Analytics
+Analytics
